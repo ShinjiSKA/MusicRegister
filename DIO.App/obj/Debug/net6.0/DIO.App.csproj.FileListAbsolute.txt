@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Git\DIO.App\obj\Debug\net6.0\DIO.App.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Git\DIO.App\obj\Debug\net6.0\DIO.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Git\DIO.App\obj\Debug\net6.0\DIO.App.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Git\DIO.App\obj\Debug\net6.0\DIO.App.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Git\DIO.App\obj\Debug\net6.0\DIO.App.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Git\DIO.App\bin\Debug\net6.0\DIO.App.exe
+C:\Users\thiag\Desktop\Git\DIO.App\bin\Debug\net6.0\DIO.App.deps.json
+C:\Users\thiag\Desktop\Git\DIO.App\bin\Debug\net6.0\DIO.App.runtimeconfig.json
+C:\Users\thiag\Desktop\Git\DIO.App\bin\Debug\net6.0\DIO.App.dll
+C:\Users\thiag\Desktop\Git\DIO.App\bin\Debug\net6.0\DIO.App.pdb
+C:\Users\thiag\Desktop\Git\DIO.App\obj\Debug\net6.0\DIO.App.dll
+C:\Users\thiag\Desktop\Git\DIO.App\obj\Debug\net6.0\refint\DIO.App.dll
+C:\Users\thiag\Desktop\Git\DIO.App\obj\Debug\net6.0\DIO.App.pdb
+C:\Users\thiag\Desktop\Git\DIO.App\obj\Debug\net6.0\DIO.App.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Git\DIO.App\obj\Debug\net6.0\ref\DIO.App.dll
